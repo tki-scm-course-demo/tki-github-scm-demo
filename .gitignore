@@ -1,0 +1,20 @@
+# Local-only files: this is not a substitute for checking every file before publication
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.vscode/
+.idea/
+*.log
+*.sqlite
+*.db
+.DS_Store
+Thumbs.db
