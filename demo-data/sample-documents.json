@@ -1,0 +1,14 @@
+[
+  {
+    "id": "DEMO-001",
+    "title": "Quy dinh demo (khong phai tai lieu that)",
+    "status": "Needs human review",
+    "source": "Generated fictional example"
+  },
+  {
+    "id": "DEMO-002",
+    "title": "Tai lieu quy trinh minh hoa",
+    "status": "Ready for publication (illustrative)",
+    "source": "Generated fictional example"
+  }
+]
